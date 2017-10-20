@@ -1,0 +1,114 @@
+C:\Users\Quang1\Documents\Visual Studio 2012\Quanlisieuthi\Quanlisieuthi\bin\Debug\Quanlisieuthi.exe.config
+C:\Users\Quang1\Documents\GitHub\Data\Project_6\Quanlisieuthi\Quanlisieuthi\bin\Debug\Quanlisieuthi.exe.config
+C:\Users\Quang1\Documents\GitHub\Data\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.frmĐăngNhập.resources
+C:\Users\Quang1\Documents\GitHub\Data\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.Properties.Resources.resources
+C:\Users\Quang1\Documents\GitHub\Data\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.csproj.GenerateResource.Cache
+C:\Users\Quang1\Documents\GitHub\Data\Project_6\Quanlisieuthi\Quanlisieuthi\bin\Debug\Quanlisieuthi.exe
+C:\Users\Quang1\Documents\GitHub\Data\Project_6\Quanlisieuthi\Quanlisieuthi\bin\Debug\Quanlisieuthi.pdb
+C:\Users\Quang1\Documents\GitHub\Data\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.exe
+C:\Users\Quang1\Documents\GitHub\Data\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.pdb
+C:\Users\Quang1\Documents\GitHub\Data\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.frmNhanVien.resources
+C:\Users\Quang1\Documents\GitHub\Data\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.frmHangHoa.resources
+C:\Users\Quang1\Documents\GitHub\Data\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.frmHoaDon.resources
+C:\Users\Quang1\Documents\GitHub\Data\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.frmKhachHang.resources
+C:\Users\Quang1\Documents\GitHub\Data\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.frmHuongDan.resources
+C:\Users\Quang1\Documents\GitHub\Data\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.csprojResolveAssemblyReference.cache
+D:\Project_6\Quanlisieuthi\Quanlisieuthi\bin\Debug\Quanlisieuthi.exe.config
+D:\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.exe
+D:\Project_6\Quanlisieuthi\Quanlisieuthi\bin\Debug\Quanlisieuthi.exe
+D:\Project_6\Quanlisieuthi\Quanlisieuthi\bin\Debug\Quanlisieuthi.pdb
+D:\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.frmHuongDan.resources
+D:\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.frmNhanVien.resources
+D:\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.frmĐăngNhập.resources
+D:\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.frmHangHoa.resources
+D:\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.frmHoaDon.resources
+D:\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.frmKhachHang.resources
+D:\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.Properties.Resources.resources
+D:\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.csproj.GenerateResource.Cache
+D:\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.pdb
+<<<<<<< HEAD
+D:\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.csprojResolveAssemblyReference.cache
+=======
+>>>>>>> origin/master
+D:\ThucTapNhom\Data\New folder\Project_6\Quanlisieuthi\Quanlisieuthi\bin\Debug\Quanlisieuthi.exe.config
+D:\ThucTapNhom\Data\New folder\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.exe
+D:\ThucTapNhom\Data\New folder\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.pdb
+D:\ThucTapNhom\Data\New folder\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.csprojResolveAssemblyReference.cache
+D:\ThucTapNhom\Data\New folder\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.frmHuongDan.resources
+D:\ThucTapNhom\Data\New folder\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.frmNhanVien.resources
+D:\ThucTapNhom\Data\New folder\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.frmĐăngNhập.resources
+D:\ThucTapNhom\Data\New folder\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.frmHangHoa.resources
+D:\ThucTapNhom\Data\New folder\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.frmHoaDon.resources
+D:\ThucTapNhom\Data\New folder\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.frmKhachHang.resources
+D:\ThucTapNhom\Data\New folder\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.Properties.Resources.resources
+D:\ThucTapNhom\Data\New folder\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.csproj.GenerateResource.Cache
+D:\ThucTapNhom\Data\New folder\Project_6\Quanlisieuthi\Quanlisieuthi\bin\Debug\Quanlisieuthi.exe
+D:\ThucTapNhom\Data\New folder\Project_6\Quanlisieuthi\Quanlisieuthi\bin\Debug\Quanlisieuthi.pdb
+D:\ThucTapNhom\Data\New folder\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.frmNhapHang.resources
+D:\ThucTapNhom\Data\New folder\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.frmBanHang.resources
+D:\ThucTapNhom\Data\New folder\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.frmThongKe.resources
+D:\ThucTapNhom\Data\New folder\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.frmTKBH.resources
+D:\ThucTapNhom\Data\New folder\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.frmTKNH.resources
+C:\Users\Quang1\Desktop\Data-master\Project_6\Quanlisieuthi\Quanlisieuthi\bin\Debug\Quanlisieuthi.exe.config
+C:\Users\Quang1\Desktop\Data-master\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.exe
+C:\Users\Quang1\Desktop\Data-master\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.pdb
+C:\Users\Quang1\Desktop\Data-master\Project_6\Quanlisieuthi\Quanlisieuthi\bin\Debug\Quanlisieuthi.exe
+C:\Users\Quang1\Desktop\Data-master\Project_6\Quanlisieuthi\Quanlisieuthi\bin\Debug\Quanlisieuthi.pdb
+C:\Users\Quang1\Desktop\Data-master\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.csprojResolveAssemblyReference.cache
+C:\Users\Quang1\Desktop\Data-master\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.frmBanHang.resources
+C:\Users\Quang1\Desktop\Data-master\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.frmHuongDan.resources
+C:\Users\Quang1\Desktop\Data-master\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.frmNhanVien.resources
+C:\Users\Quang1\Desktop\Data-master\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.frmNhapHang.resources
+C:\Users\Quang1\Desktop\Data-master\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.frmThongKe.resources
+C:\Users\Quang1\Desktop\Data-master\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.frmTKBH.resources
+C:\Users\Quang1\Desktop\Data-master\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.frmTKNH.resources
+C:\Users\Quang1\Desktop\Data-master\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.frmĐăngNhập.resources
+C:\Users\Quang1\Desktop\Data-master\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.frmHangHoa.resources
+C:\Users\Quang1\Desktop\Data-master\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.frmHoaDon.resources
+C:\Users\Quang1\Desktop\Data-master\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.frmKhachHang.resources
+C:\Users\Quang1\Desktop\Data-master\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.Properties.Resources.resources
+C:\Users\Quang1\Desktop\Data-master\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.csproj.GenerateResource.Cache
+F:\Documents\GitHub\Data\Project_6\Quanlisieuthi\Quanlisieuthi\bin\Debug\Quanlisieuthi.exe.config
+F:\Documents\GitHub\Data\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.exe
+F:\Documents\GitHub\Data\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.pdb
+D:\Data-master\Project_6\Quanlisieuthi\Quanlisieuthi\bin\Debug\Quanlisieuthi.exe.config
+D:\Data-master\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.exe
+D:\Data-master\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.pdb
+D:\Data-master\Project_6\Quanlisieuthi\Quanlisieuthi\bin\Debug\Quanlisieuthi.exe
+D:\Data-master\Project_6\Quanlisieuthi\Quanlisieuthi\bin\Debug\Quanlisieuthi.pdb
+D:\Data-master\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.csprojResolveAssemblyReference.cache
+D:\Data-master\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.frmBanHang.resources
+D:\Data-master\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.frmHuongDan.resources
+D:\Data-master\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.frmNhanVien.resources
+D:\Data-master\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.frmNhapHang.resources
+D:\Data-master\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.frmThongKe.resources
+D:\Data-master\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.frmTKBH.resources
+D:\Data-master\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.frmTKNH.resources
+D:\Data-master\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.frmĐăngNhập.resources
+D:\Data-master\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.frmHangHoa.resources
+D:\Data-master\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.frmHoaDon.resources
+D:\Data-master\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.frmKhachHang.resources
+D:\Data-master\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.Properties.Resources.resources
+D:\Data-master\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.csproj.GenerateResource.Cache
+C:\Users\anhho\Desktop\Project_6\Quanlisieuthi\Quanlisieuthi\bin\Debug\Quanlisieuthi.exe.config
+C:\Users\anhho\Desktop\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.exe
+C:\Users\anhho\Desktop\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.pdb
+C:\Users\anhho\Desktop\Project_6\Quanlisieuthi\Quanlisieuthi\bin\Debug\Quanlisieuthi.exe
+C:\Users\anhho\Desktop\Project_6\Quanlisieuthi\Quanlisieuthi\bin\Debug\Quanlisieuthi.pdb
+C:\Users\anhho\Desktop\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.csprojResolveAssemblyReference.cache
+C:\Users\anhho\Desktop\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.frmBanHang.resources
+C:\Users\anhho\Desktop\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.frmHuongDan.resources
+C:\Users\anhho\Desktop\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.frmNhanVien.resources
+C:\Users\anhho\Desktop\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.frmNhapHang.resources
+C:\Users\anhho\Desktop\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.frmThongKe.resources
+C:\Users\anhho\Desktop\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.frmTKBH.resources
+C:\Users\anhho\Desktop\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.frmTKNH.resources
+C:\Users\anhho\Desktop\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.frmĐăngNhập.resources
+C:\Users\anhho\Desktop\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.frmHangHoa.resources
+C:\Users\anhho\Desktop\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.frmHoaDon.resources
+C:\Users\anhho\Desktop\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.frmKhachHang.resources
+C:\Users\anhho\Desktop\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.Properties.Resources.resources
+C:\Users\anhho\Desktop\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.csproj.GenerateResource.Cache
+C:\Users\anhho\Desktop\Project_6 - Copy\Quanlisieuthi\Quanlisieuthi\bin\Debug\Quanlisieuthi.exe.config
+C:\Users\anhho\Desktop\Project_6 - Copy\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.exe
+C:\Users\anhho\Desktop\Project_6 - Copy\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.pdb
