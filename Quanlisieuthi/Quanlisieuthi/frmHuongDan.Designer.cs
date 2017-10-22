@@ -71,7 +71,7 @@
             treeNode8});
             this.treeView1.Size = new System.Drawing.Size(253, 309);
             this.treeView1.TabIndex = 0;
-            
+            this.treeView1.AfterSelect += new System.Windows.Forms.TreeViewEventHandler(this.treeView1_AfterSelect);
             // 
             // txtHD
             // 

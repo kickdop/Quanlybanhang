@@ -88,7 +88,7 @@
             this.txtNgaySinh.Name = "txtNgaySinh";
             this.txtNgaySinh.Size = new System.Drawing.Size(186, 20);
             this.txtNgaySinh.TabIndex = 24;
-            
+            this.txtNgaySinh.TextChanged += new System.EventHandler(this.txtNgaySinh_TextChanged);
             // 
             // txtCMND
             // 
@@ -160,7 +160,7 @@
             this.but_Up.TabIndex = 13;
             this.but_Up.Text = "Sửa Nhân Viên";
             this.but_Up.UseVisualStyleBackColor = true;
-            
+            this.but_Up.Click += new System.EventHandler(this.but_Up_Click);
             // 
             // but_Del
             // 
@@ -171,7 +171,7 @@
             this.but_Del.TabIndex = 12;
             this.but_Del.Text = "Đuổi Nhân Viên";
             this.but_Del.UseVisualStyleBackColor = true;
-            
+            this.but_Del.Click += new System.EventHandler(this.but_Del_Click);
             // 
             // but_Ins
             // 
@@ -182,7 +182,7 @@
             this.but_Ins.TabIndex = 11;
             this.but_Ins.Text = "Thêm Nhân Viên";
             this.but_Ins.UseVisualStyleBackColor = true;
-            
+            this.but_Ins.Click += new System.EventHandler(this.but_Ins_Click);
             // 
             // txtHoTen
             // 
@@ -237,7 +237,7 @@
             this.but_OK.Text = "Xong";
             this.but_OK.UseVisualStyleBackColor = true;
             this.but_OK.Visible = false;
-            
+            this.but_OK.Click += new System.EventHandler(this.but_OK_Click);
             // 
             // but_Find
             // 
@@ -247,7 +247,7 @@
             this.but_Find.TabIndex = 2;
             this.but_Find.Text = "Tìm Kiếm";
             this.but_Find.UseVisualStyleBackColor = true;
-            
+            this.but_Find.Click += new System.EventHandler(this.but_Find_Click);
             // 
             // txtFind
             // 
@@ -277,7 +277,7 @@
             this.dataGridView1.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dataGridView1.Size = new System.Drawing.Size(642, 154);
             this.dataGridView1.TabIndex = 9;
-            
+            this.dataGridView1.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellClick);
             // 
             // Column1
             // 
@@ -338,7 +338,7 @@
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Name = "frmNhanVien";
             this.Text = "Nhân Viên";
-            
+            this.Load += new System.EventHandler(this.frmNhanVien_Load);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
             this.panel2.ResumeLayout(false);

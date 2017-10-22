@@ -16,6 +16,10 @@ namespace Quanlisieuthi
         {
             InitializeComponent();
         }
-      
+        ConnectData con = new ConnectData();
+        private void frmTKBH_Load(object sender, EventArgs e)
+        {
+            con.KhoiTao(dataGridView1, @"select * from PhieuXuat");
+        }
     }
 }

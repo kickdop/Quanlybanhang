@@ -95,7 +95,7 @@
             this.Controls.Add(this.dataGridView1);
             this.Name = "frmTKNH";
             this.Text = "frmTKNH";
-            
+            this.Load += new System.EventHandler(this.frmTKNH_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
 

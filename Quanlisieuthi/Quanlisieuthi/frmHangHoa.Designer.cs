@@ -71,7 +71,9 @@
             this.dataGridView1.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dataGridView1.Size = new System.Drawing.Size(443, 202);
             this.dataGridView1.TabIndex = 13;
-          
+            this.dataGridView1.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellClick);
+            this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
+            this.dataGridView1.CellEnter += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellClick);
             // 
             // Column5
             // 
@@ -132,7 +134,7 @@
             this.butTK.TabIndex = 25;
             this.butTK.Text = "Thống kê";
             this.butTK.UseVisualStyleBackColor = true;
-          
+            this.butTK.Click += new System.EventHandler(this.butTK_Click);
             // 
             // txtID
             // 
@@ -140,7 +142,7 @@
             this.txtID.Name = "txtID";
             this.txtID.Size = new System.Drawing.Size(173, 20);
             this.txtID.TabIndex = 24;
-          
+            this.txtID.TextChanged += new System.EventHandler(this.txtID_TextChanged);
             // 
             // label5
             // 
@@ -162,7 +164,7 @@
             this.but_Ban.TabIndex = 21;
             this.but_Ban.Text = "Bán Hàng";
             this.but_Ban.UseVisualStyleBackColor = true;
-            
+            this.but_Ban.Click += new System.EventHandler(this.but_Ban_Click);
             // 
             // but_Nhap
             // 
@@ -174,7 +176,7 @@
             this.but_Nhap.TabIndex = 20;
             this.but_Nhap.Text = "Nhập hàng";
             this.but_Nhap.UseVisualStyleBackColor = true;
-            
+            this.but_Nhap.Click += new System.EventHandler(this.but_Nhap_Click);
             // 
             // txtNgayNhap
             // 
@@ -216,7 +218,7 @@
             this.label2.Size = new System.Drawing.Size(63, 16);
             this.label2.TabIndex = 13;
             this.label2.Text = "Giá Bán";
-            
+            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // label1
             // 
@@ -254,7 +256,7 @@
             this.but_Find.TabIndex = 13;
             this.but_Find.Text = "Tìm Kiếm ";
             this.but_Find.UseVisualStyleBackColor = true;
-            
+            this.but_Find.Click += new System.EventHandler(this.but_Find_Click);
             // 
             // frmHangHoa
             // 
@@ -266,7 +268,7 @@
             this.Controls.Add(this.dataGridView1);
             this.Name = "frmHangHoa";
             this.Text = "Hàng Hóa";
-            
+            this.Load += new System.EventHandler(this.Form2_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();

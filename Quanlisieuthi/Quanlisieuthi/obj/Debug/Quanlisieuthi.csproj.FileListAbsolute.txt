@@ -112,6 +112,18 @@ C:\Users\anhho\Desktop\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisie
 C:\Users\anhho\Desktop\Project_6 - Copy\Quanlisieuthi\Quanlisieuthi\bin\Debug\Quanlisieuthi.exe.config
 C:\Users\anhho\Desktop\Project_6 - Copy\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.exe
 C:\Users\anhho\Desktop\Project_6 - Copy\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.pdb
+<<<<<<< HEAD
 E:\forgithub\Quanlybanhang\Quanlisieuthi\Quanlisieuthi\bin\Debug\Quanlisieuthi.exe.config
 E:\forgithub\Quanlybanhang\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.exe
 E:\forgithub\Quanlybanhang\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.pdb
+=======
+C:\Users\Rob Luccy\Documents\GitHub\Quanlybanhang\Quanlisieuthi\Quanlisieuthi\bin\Debug\Quanlisieuthi.exe.config
+C:\Users\Rob Luccy\Documents\GitHub\Quanlybanhang\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.exe
+C:\Users\Rob Luccy\Documents\GitHub\Quanlybanhang\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.pdb
+D:\GITHUB\Quanlybanhang\Quanlisieuthi\Quanlisieuthi\bin\Debug\Quanlisieuthi.exe.config
+D:\GITHUB\Quanlybanhang\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.exe
+D:\GITHUB\Quanlybanhang\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.pdb
+C:\Users\FPTShop\Documents\GitHub\Quanlybanhang\Quanlisieuthi\Quanlisieuthi\bin\Debug\Quanlisieuthi.exe.config
+C:\Users\FPTShop\Documents\GitHub\Quanlybanhang\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.exe
+C:\Users\FPTShop\Documents\GitHub\Quanlybanhang\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.pdb
+>>>>>>> ca8a485c9fef78bf841610d07ee745989cd4c898
