@@ -17,7 +17,7 @@ namespace Quanlisieuthi
         {
             InitializeComponent();
         }
-       
+
     }
 
 }
