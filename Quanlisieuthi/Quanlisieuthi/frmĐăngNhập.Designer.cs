@@ -56,6 +56,7 @@
             this.label1.Size = new System.Drawing.Size(116, 16);
             this.label1.TabIndex = 0;
             this.label1.Text = "Tên Đăng Nhập";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // label2
             // 
@@ -66,6 +67,7 @@
             this.label2.Size = new System.Drawing.Size(71, 16);
             this.label2.TabIndex = 1;
             this.label2.Text = "Mật Khẩu";
+            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // txtUser
             // 
@@ -73,6 +75,7 @@
             this.txtUser.Name = "txtUser";
             this.txtUser.Size = new System.Drawing.Size(153, 20);
             this.txtUser.TabIndex = 2;
+            this.txtUser.TextChanged += new System.EventHandler(this.txtUser_TextChanged);
             // 
             // txtPass
             // 
@@ -81,6 +84,7 @@
             this.txtPass.Size = new System.Drawing.Size(153, 20);
             this.txtPass.TabIndex = 3;
             this.txtPass.UseSystemPasswordChar = true;
+            this.txtPass.TextChanged += new System.EventHandler(this.txtPass_TextChanged);
             // 
             // but_join
             // 
@@ -91,6 +95,7 @@
             this.but_join.TabIndex = 4;
             this.but_join.Text = "Đăng Nhập";
             this.but_join.UseVisualStyleBackColor = true;
+            this.but_join.Click += new System.EventHandler(this.but_join_Click);
             // 
             // but_out
             // 
@@ -101,6 +106,7 @@
             this.but_out.TabIndex = 5;
             this.but_out.Text = "Thoát";
             this.but_out.UseVisualStyleBackColor = true;
+            this.but_out.Click += new System.EventHandler(this.but_out_Click);
             // 
             // pAcc
             // 
@@ -114,10 +120,11 @@
             this.pAcc.Controls.Add(this.but_HoaDon);
             this.pAcc.Controls.Add(this.but_HangHoa);
             this.pAcc.Enabled = false;
-            this.pAcc.Location = new System.Drawing.Point(47, 185);
+            this.pAcc.Location = new System.Drawing.Point(3, 181);
             this.pAcc.Name = "pAcc";
             this.pAcc.Size = new System.Drawing.Size(454, 146);
             this.pAcc.TabIndex = 6;
+            this.pAcc.Paint += new System.Windows.Forms.PaintEventHandler(this.pAcc_Paint);
             // 
             // linkLabel1
             // 
@@ -128,6 +135,7 @@
             this.linkLabel1.TabIndex = 8;
             this.linkLabel1.TabStop = true;
             this.linkLabel1.Text = "Hướng Dẫn";
+            this.linkLabel1.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkLabel1_LinkClicked);
             // 
             // label6
             // 
@@ -138,6 +146,7 @@
             this.label6.Size = new System.Drawing.Size(79, 16);
             this.label6.TabIndex = 7;
             this.label6.Text = "Nhân Viên";
+            this.label6.Click += new System.EventHandler(this.label6_Click);
             // 
             // label5
             // 
@@ -176,6 +185,7 @@
             this.but_KhachHang.Size = new System.Drawing.Size(82, 39);
             this.but_KhachHang.TabIndex = 3;
             this.but_KhachHang.UseVisualStyleBackColor = true;
+            this.but_KhachHang.Click += new System.EventHandler(this.but_KhachHang_Click);
             // 
             // but_NhanVien
             // 
@@ -184,6 +194,7 @@
             this.but_NhanVien.Size = new System.Drawing.Size(77, 39);
             this.but_NhanVien.TabIndex = 2;
             this.but_NhanVien.UseVisualStyleBackColor = true;
+            this.but_NhanVien.Click += new System.EventHandler(this.but_NhanVien_Click);
             // 
             // but_HoaDon
             // 
@@ -192,6 +203,7 @@
             this.but_HoaDon.Size = new System.Drawing.Size(75, 39);
             this.but_HoaDon.TabIndex = 1;
             this.but_HoaDon.UseVisualStyleBackColor = true;
+            this.but_HoaDon.Click += new System.EventHandler(this.but_HoaDon_Click);
             // 
             // but_HangHoa
             // 
@@ -200,6 +212,7 @@
             this.but_HangHoa.Size = new System.Drawing.Size(75, 39);
             this.but_HangHoa.TabIndex = 0;
             this.but_HangHoa.UseVisualStyleBackColor = true;
+            this.but_HangHoa.Click += new System.EventHandler(this.but_HangHoa_Click);
             // 
             // frmĐăngNhập
             // 
