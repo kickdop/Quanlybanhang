@@ -115,7 +115,7 @@
             this.butNhapHang.TabIndex = 8;
             this.butNhapHang.Text = "Nhập hàng";
             this.butNhapHang.UseVisualStyleBackColor = true;
-            
+            this.butNhapHang.Click += new System.EventHandler(this.butNhapHang_Click);
             // 
             // frmNhapHang
             // 
@@ -135,7 +135,7 @@
             this.MaximizeBox = false;
             this.Name = "frmNhapHang";
             this.Text = "frmNhapHang";
-            
+            this.Load += new System.EventHandler(this.frmNhapHang_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

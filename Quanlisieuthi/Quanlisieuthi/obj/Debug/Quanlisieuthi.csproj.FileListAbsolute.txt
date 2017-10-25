@@ -118,3 +118,6 @@ C:\Users\Rob Luccy\Documents\GitHub\Quanlybanhang\Quanlisieuthi\Quanlisieuthi\ob
 D:\GITHUB\Quanlybanhang\Quanlisieuthi\Quanlisieuthi\bin\Debug\Quanlisieuthi.exe.config
 D:\GITHUB\Quanlybanhang\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.exe
 D:\GITHUB\Quanlybanhang\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.pdb
+C:\Users\FPTShop\Documents\GitHub\Quanlybanhang\Quanlisieuthi\Quanlisieuthi\bin\Debug\Quanlisieuthi.exe.config
+C:\Users\FPTShop\Documents\GitHub\Quanlybanhang\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.exe
+C:\Users\FPTShop\Documents\GitHub\Quanlybanhang\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.pdb
