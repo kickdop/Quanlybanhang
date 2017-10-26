@@ -72,7 +72,7 @@
             this.butShow.TabIndex = 10;
             this.butShow.Text = "Xem";
             this.butShow.UseVisualStyleBackColor = true;
-            
+            this.butShow.Click += new System.EventHandler(this.butShow_Click);
             // 
             // dateTimePicker2
             // 
@@ -128,7 +128,7 @@
             this.butOut.TabIndex = 4;
             this.butOut.Text = "Thống kê hàng hóa bán ra";
             this.butOut.UseVisualStyleBackColor = true;
-            
+            this.butOut.Click += new System.EventHandler(this.butIn_Click);
             // 
             // butIn
             // 
@@ -138,7 +138,7 @@
             this.butIn.TabIndex = 3;
             this.butIn.Text = "Thống kê hàng hóa nhập vào";
             this.butIn.UseVisualStyleBackColor = true;
-            
+            this.butIn.Click += new System.EventHandler(this.butOut_Click);
             // 
             // panel2
             // 
@@ -213,7 +213,7 @@
             this.Controls.Add(this.panel1);
             this.Name = "frmThongKe";
             this.Text = "frmThongKe";
-            
+            this.Load += new System.EventHandler(this.frmThongKe_Load);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
             this.panel2.ResumeLayout(false);

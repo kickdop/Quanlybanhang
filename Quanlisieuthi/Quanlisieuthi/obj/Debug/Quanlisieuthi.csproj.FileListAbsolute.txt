@@ -115,3 +115,6 @@ C:\Users\anhho\Desktop\Project_6 - Copy\Quanlisieuthi\Quanlisieuthi\obj\Debug\Qu
 C:\Users\Rob Luccy\Documents\GitHub\Quanlybanhang\Quanlisieuthi\Quanlisieuthi\bin\Debug\Quanlisieuthi.exe.config
 C:\Users\Rob Luccy\Documents\GitHub\Quanlybanhang\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.exe
 C:\Users\Rob Luccy\Documents\GitHub\Quanlybanhang\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.pdb
+D:\GITHUB\Quanlybanhang\Quanlisieuthi\Quanlisieuthi\bin\Debug\Quanlisieuthi.exe.config
+D:\GITHUB\Quanlybanhang\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.exe
+D:\GITHUB\Quanlybanhang\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.pdb
