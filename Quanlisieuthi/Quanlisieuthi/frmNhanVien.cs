@@ -91,61 +91,16 @@ namespace Quanlisieuthi
 
         private void but_Up_Click(object sender, EventArgs e)
         {
-            conn.MoKetNoi();
-            SqlCommand sqlcm = new SqlCommand("Edit_NhanVien", conn.conn);
-            sqlcm.CommandType = CommandType.StoredProcedure;
-
-            sqlcm.Parameters.AddWithValue("@id_nhanvien", txtID.Text);
-            sqlcm.Parameters.AddWithValue("@hoten", txtHoTen.Text);
-            sqlcm.Parameters.AddWithValue("@quequan", txtQueQuan.Text);
-            sqlcm.Parameters.AddWithValue("@gt", txtGioiTinh.Text);
-            sqlcm.Parameters.AddWithValue("@CMND", txtCMND.Text);
-            sqlcm.Parameters.AddWithValue("@ngaysinh", txtNgaySinh.Text);
-
-
-            int check = sqlcm.ExecuteNonQuery();
-            if (check > 0)
-            {
-                MessageBox.Show("Sửa thành công");
-                conn.KhoiTao(dataGridView1, @"select * from dbo.NhanVien");
-                txtID.Text = txtHoTen.Text = txtQueQuan.Text = txtGioiTinh.Text = txtCMND.Text = txtGioiTinh.Text = string.Empty;
-            }
-            else
-            {
-                MessageBox.Show("Có lỗi");
-            }
-            conn.DongKetNoi();
+            
         }
 
         private void but_OK_Click(object sender, EventArgs e)
         {
-            but_OK.Visible = false;
-            but_Ins.Visible = true;
-            dataGridView1.Enabled = true;
-            conn.MoKetNoi();
-            SqlCommand sqlcm = new SqlCommand("Add_NhanVien", conn.conn);
-            sqlcm.CommandType = CommandType.StoredProcedure;
-            sqlcm.Parameters.AddWithValue("@id_nhanvien", txtID.Text);
-            sqlcm.Parameters.AddWithValue("@hoten", txtHoTen.Text);
-            sqlcm.Parameters.AddWithValue("@quequan", txtQueQuan.Text);
-            sqlcm.Parameters.AddWithValue("@gt", txtGioiTinh.Text);
-            sqlcm.Parameters.AddWithValue("@CMND", txtCMND.Text);
-            sqlcm.Parameters.AddWithValue("@ngaysinh", Convert.ToDateTime(txtNgaySinh.Text));
-
-            int check = sqlcm.ExecuteNonQuery();
-            if (check > 0)
-            {
-                MessageBox.Show("Thêm dữ liệu thành công");
-                conn.KhoiTao(dataGridView1, @"select * from NhanVien");
-                txtID.Text = txtHoTen.Text = txtQueQuan.Text = txtGioiTinh.Text = txtCMND.Text = txtGioiTinh.Text = string.Empty;
-            }
-            else MessageBox.Show("Có lỗi");
-            conn.DongKetNoi();
         }
 
         private void frmNhanVien_Load(object sender, EventArgs e)
         {
-            conn.KhoiTao(dataGridView1, constr);
+ 
         }
 
         private void dataGridView1_CellClick(object sender, DataGridViewCellEventArgs e)
