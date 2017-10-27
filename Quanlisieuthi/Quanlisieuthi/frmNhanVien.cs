@@ -41,9 +41,7 @@ namespace Quanlisieuthi
 
         private void but_Ins_Click(object sender, EventArgs e)
         {
-            but_OK.Visible = true;
-            but_Ins.Visible = false;
-            txtID.Text = txtHoTen.Text = txtGioiTinh.Text = txtNgaySinh.Text = txtQueQuan.Text = txtCMND.Text = string.Empty;
+
         }
 
         private void but_Del_Click(object sender, EventArgs e)
