@@ -43,5 +43,27 @@ namespace Quanlisieuthi
             }
             conn.DongKetNoi();
         }
+        private void but_Del_Click(object sender, EventArgs e)
+        {
+            if (MessageBox.Show("Bạn có muốn xóa hóa đơn không ?", "Thông báo", MessageBoxButtons.OKCancel, MessageBoxIcon.Warning) == DialogResult.OK)
+            {
+                conn.MoKetNoi();
+                SqlCommand sqlcm = new SqlCommand("Delete_HoaDon", conn.conn);
+                sqlcm.CommandType = CommandType.StoredProcedure;
+                sqlcm.Parameters.AddWithValue("@ID_HoaDon", txtID.Text);
+                int check = sqlcm.ExecuteNonQuery();
+                if (check > 0)
+                {
+                    MessageBox.Show("Đã bán thành công");
+                    conn.KhoiTao(dataGridView1, @"select * from dbo.HoaDon");
+                    txtID.Text = txtHoaDon.Text = txtKhachHang.Text = txtHangHoa.Text = txtNhanVien.Text = txtFind.Text = string.Empty;
+                }
+                else
+                {
+                    MessageBox.Show("Có lỗi, không thể xóa hóa đơn");
+                }
+                conn.DongKetNoi();
+            }
+        }
     }
 }
