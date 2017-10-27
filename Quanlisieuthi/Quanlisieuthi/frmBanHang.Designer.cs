@@ -75,7 +75,7 @@
             this.butSell.TabIndex = 4;
             this.butSell.Text = "Bán";
             this.butSell.UseVisualStyleBackColor = true;
-            
+            this.butSell.Click += new System.EventHandler(this.butSell_Click);
             // 
             // txtTenHang
             // 
@@ -83,7 +83,7 @@
             this.txtTenHang.Name = "txtTenHang";
             this.txtTenHang.Size = new System.Drawing.Size(206, 20);
             this.txtTenHang.TabIndex = 5;
-            
+            this.txtTenHang.TextChanged += new System.EventHandler(this.txtTenHang_TextChanged);
             // 
             // txtNB
             // 
@@ -113,7 +113,7 @@
             this.Controls.Add(this.label1);
             this.Name = "frmBanHang";
             this.Text = "frmBanHang";
-          
+            this.Load += new System.EventHandler(this.frmBanHang_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
