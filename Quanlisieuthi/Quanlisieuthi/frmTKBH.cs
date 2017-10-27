@@ -10,16 +10,16 @@ using System.Windows.Forms;
 using System.Data.SqlClient;
 namespace Quanlisieuthi
 {
-    public partial class frmTKNH : Form
+    public partial class frmTKBH : Form
     {
-        public frmTKNH()
+        public frmTKBH()
         {
             InitializeComponent();
         }
         ConnectData con = new ConnectData();
-        private void frmTKNH_Load(object sender, EventArgs e)
+        private void frmTKBH_Load(object sender, EventArgs e)
         {
-            con.KhoiTao(dataGridView1, @"select * from PhieuNhap");
+            con.KhoiTao(dataGridView1, @"select * from PhieuXuat");
         }
     }
 }
