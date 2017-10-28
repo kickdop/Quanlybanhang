@@ -65,5 +65,21 @@ namespace Quanlisieuthi
                 conn.DongKetNoi();
             }
         }
+        private void TimKiem_Click(object sender, EventArgs e)
+        {
+            conn.MoKetNoi();
+            SqlCommand sqlcm = new SqlCommand("timkiemhoadon", conn.conn);
+            sqlcm.CommandType = CommandType.StoredProcedure;
+            sqlcm.Parameters.AddWithValue("@tim", txtFind.Text);
+            SqlDataAdapter da = new SqlDataAdapter(sqlcm);
+            DataTable dt = new DataTable();
+            da.Fill(dt);
+            DataView dv = new DataView(dt);
+            dataGridView1.DataSource = dv;
+            if (dataGridView1.RowCount <= 0) MessageBox.Show("Nội dung cần tìm không có");
+            txtFind.Text = string.Empty;
+            conn.DongKetNoi();
+        }
+    }
     }
 }
