@@ -17,9 +17,6 @@ namespace Quanlisieuthi
         {
             InitializeComponent();
         }
-<<<<<<< HEAD
-
-=======
         ConnectData conn = new ConnectData();
         public string constr = @"select * from dbo.NhanVien";
         private void label1_Click(object sender, EventArgs e)
@@ -80,7 +77,7 @@ namespace Quanlisieuthi
 
             sqlcm.Parameters.AddWithValue("@tim", txtFind.Text);
 
-            // sqlcm.Parameters.Add("@tim", txtFind.Text);
+           // sqlcm.Parameters.Add("@tim", txtFind.Text);
 
             SqlDataAdapter da = new SqlDataAdapter(sqlcm);
             DataTable dt = new DataTable();
@@ -133,7 +130,7 @@ namespace Quanlisieuthi
             sqlcm.Parameters.AddWithValue("@quequan", txtQueQuan.Text);
             sqlcm.Parameters.AddWithValue("@gt", txtGioiTinh.Text);
             sqlcm.Parameters.AddWithValue("@CMND", txtCMND.Text);
-            sqlcm.Parameters.AddWithValue("@ngaysinh", Convert.ToDateTime(txtNgaySinh.Text));
+            sqlcm.Parameters.AddWithValue("@ngaysinh",Convert.ToDateTime(txtNgaySinh.Text));
 
             int check = sqlcm.ExecuteNonQuery();
             if (check > 0)
@@ -174,7 +171,6 @@ namespace Quanlisieuthi
         {
 
         }
->>>>>>> eedb914e531de201a4e450c97d122baa46ec0b89
     }
 
 }

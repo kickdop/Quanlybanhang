@@ -76,7 +76,7 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(520, 292);
             this.panel1.TabIndex = 10;
-            
+            this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
             // 
             // but_Del
             // 
@@ -87,7 +87,7 @@
             this.but_Del.TabIndex = 22;
             this.but_Del.Text = "Xóa";
             this.but_Del.UseVisualStyleBackColor = true;
-            
+            this.but_Del.Click += new System.EventHandler(this.but_Del_Click);
             // 
             // but_Up
             // 
@@ -98,7 +98,7 @@
             this.but_Up.TabIndex = 21;
             this.but_Up.Text = "Sửa";
             this.but_Up.UseVisualStyleBackColor = true;
-            
+            this.but_Up.Click += new System.EventHandler(this.but_Up_Click);
             // 
             // but_Ins
             // 
@@ -109,7 +109,7 @@
             this.but_Ins.TabIndex = 20;
             this.but_Ins.Text = "Thêm";
             this.but_Ins.UseVisualStyleBackColor = true;
-            
+            this.but_Ins.Click += new System.EventHandler(this.but_Ins_Click);
             // 
             // txtHangHoa
             // 
@@ -216,7 +216,7 @@
             this.but_OK.Text = "Xong";
             this.but_OK.UseVisualStyleBackColor = true;
             this.but_OK.Visible = false;
-            
+            this.but_OK.Click += new System.EventHandler(this.but_OK_Click);
             // 
             // txtFind
             // 
@@ -234,7 +234,7 @@
             this.TimKiem.TabIndex = 0;
             this.TimKiem.Text = "Tìm Kiếm";
             this.TimKiem.UseVisualStyleBackColor = true;
-            
+            this.TimKiem.Click += new System.EventHandler(this.TimKiem_Click);
             // 
             // dataGridView1
             // 
@@ -258,7 +258,8 @@
             this.dataGridView1.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dataGridView1.Size = new System.Drawing.Size(545, 131);
             this.dataGridView1.TabIndex = 12;
-            
+            this.dataGridView1.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellClick);
+            this.dataGridView1.CellEnter += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellClick);
             // 
             // Column1
             // 
@@ -310,7 +311,7 @@
             this.Controls.Add(this.panel1);
             this.Name = "frmHoaDon";
             this.Text = "Hóa Đơn";
-            
+            this.Load += new System.EventHandler(this.frmHoaDon_Load);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
             this.panel2.ResumeLayout(false);

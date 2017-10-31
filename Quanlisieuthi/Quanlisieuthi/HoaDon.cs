@@ -91,7 +91,7 @@ namespace Quanlisieuthi
             dataGridView1.Enabled = false;
         }
 
-
+       
         private void frmHoaDon_Load(object sender, EventArgs e)
         {
             conn.KhoiTao(dataGridView1, constr);

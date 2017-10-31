@@ -61,7 +61,7 @@ namespace Quanlisieuthi
                 con.MoKetNoi();
                 SqlCommand sqlcm = new SqlCommand("LuuLuong", con.conn);
                 sqlcm.CommandType = CommandType.StoredProcedure;
-                sqlcm.Parameters.AddWithValue("@ngaybatdau", a);
+                sqlcm.Parameters.AddWithValue("@ngaybatdau",a);
                 sqlcm.Parameters.AddWithValue("@ngayketthuc", b);
                 SqlDataAdapter da = new SqlDataAdapter(sqlcm);
                 DataTable dt = new DataTable();

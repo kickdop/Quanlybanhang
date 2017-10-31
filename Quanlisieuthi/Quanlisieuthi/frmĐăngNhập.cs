@@ -26,7 +26,7 @@ namespace Quanlisieuthi
         }
 
 
-
+      
 
         private void label6_Click(object sender, EventArgs e)
         {
@@ -72,7 +72,7 @@ namespace Quanlisieuthi
             conn.DongKetNoi();
         }
 
-
+      
         private void txtUser_TextChanged(object sender, EventArgs e)
         {
 
@@ -122,7 +122,7 @@ namespace Quanlisieuthi
             if (MessageBox.Show("Bạn có muốn thoát không?", "Thông báo", MessageBoxButtons.YesNo, MessageBoxIcon.Warning) == DialogResult.Yes)
             {
                 this.Close();
-            }
+            } 
         }
 
         private void pAcc_Paint(object sender, PaintEventArgs e)

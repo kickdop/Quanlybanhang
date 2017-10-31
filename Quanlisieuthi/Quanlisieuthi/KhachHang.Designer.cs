@@ -81,7 +81,7 @@
             this.but_Del.TabIndex = 18;
             this.but_Del.Text = "Xóa Khách Hàng";
             this.but_Del.UseVisualStyleBackColor = true;
-            
+            this.but_Del.Click += new System.EventHandler(this.but_Del_Click);
             // 
             // but_Up
             // 
@@ -92,7 +92,7 @@
             this.but_Up.TabIndex = 17;
             this.but_Up.Text = "Sửa Khách Hàng";
             this.but_Up.UseVisualStyleBackColor = true;
-            
+            this.but_Up.Click += new System.EventHandler(this.but_Up_Click);
             // 
             // but_Ins
             // 
@@ -103,7 +103,7 @@
             this.but_Ins.TabIndex = 16;
             this.but_Ins.Text = "Thêm Khách Hàng";
             this.but_Ins.UseVisualStyleBackColor = true;
-            
+            this.but_Ins.Click += new System.EventHandler(this.but_Ins_Click);
             // 
             // txtTen
             // 
@@ -193,7 +193,7 @@
             this.but_OK.Text = "Xong";
             this.but_OK.UseVisualStyleBackColor = true;
             this.but_OK.Visible = false;
-            
+            this.but_OK.Click += new System.EventHandler(this.but_OK_Click);
             // 
             // txtFind
             // 
@@ -211,7 +211,7 @@
             this.but_Find.TabIndex = 0;
             this.but_Find.Text = "Tìm Kiếm";
             this.but_Find.UseVisualStyleBackColor = true;
-            
+            this.but_Find.Click += new System.EventHandler(this.but_Find_Click);
             // 
             // dataGridView1
             // 
@@ -233,7 +233,8 @@
             this.dataGridView1.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dataGridView1.Size = new System.Drawing.Size(448, 150);
             this.dataGridView1.TabIndex = 10;
-            
+            this.dataGridView1.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellClick);
+            this.dataGridView1.CellEnter += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellClick);
             // 
             // Column1
             // 
@@ -277,7 +278,7 @@
             this.Controls.Add(this.panel1);
             this.Name = "frmKhachHang";
             this.Text = "KhachHang";
-            
+            this.Load += new System.EventHandler(this.frmKhachHang_Load);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
             this.panel2.ResumeLayout(false);
