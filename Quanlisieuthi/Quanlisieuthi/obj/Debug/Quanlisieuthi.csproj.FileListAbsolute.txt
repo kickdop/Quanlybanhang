@@ -109,3 +109,6 @@ C:\Users\anhho\Desktop\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisie
 C:\Users\anhho\Desktop\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.frmKhachHang.resources
 C:\Users\anhho\Desktop\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.Properties.Resources.resources
 C:\Users\anhho\Desktop\Project_6\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.csproj.GenerateResource.Cache
+F:\Công nghệ web\MVC\Quản lí Kho\Quanlisieuthi\Quanlisieuthi\bin\Debug\Quanlisieuthi.exe.config
+F:\Công nghệ web\MVC\Quản lí Kho\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.exe
+F:\Công nghệ web\MVC\Quản lí Kho\Quanlisieuthi\Quanlisieuthi\obj\Debug\Quanlisieuthi.pdb
